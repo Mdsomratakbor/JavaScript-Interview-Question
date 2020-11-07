@@ -33,13 +33,17 @@
 `Breaking within a string statement can be done by the use of a backslash, '\', at the end of the first line`
 
 **Example:**
+
 <pre>document.write("this is \a program")<pre>
 
 `And if you change to a new line when not within a string statement, then javaScript ignores break in line.`
 
 **Example:**
+
 <pre>
 var x=1, y=2,
 z=
 x+y;
 </pre>
+
+`The above code is perfectly fine, though not advisable as it hampers debugging.`
