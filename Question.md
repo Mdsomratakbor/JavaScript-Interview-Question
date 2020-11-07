@@ -46,3 +46,7 @@ x+y;</pre>
 
 
 `The above code is perfectly fine, though not advisable as it hampers debugging.`
+
+### 8. Which company developed JavaScript?
+
+`Netscape is the software company who developed JavaScript.`
