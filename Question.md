@@ -34,7 +34,7 @@
 
 **Example:**
 
-<pre>document.write("this is \a program")<pre>
+**document.write("this is \a program")**
 
 `And if you change to a new line when not within a string statement, then javaScript ignores break in line.`
 
@@ -43,4 +43,6 @@
 <pre>var x=1, y=2,
 z=
 x+y;</pre>
+
+
 `The above code is perfectly fine, though not advisable as it hampers debugging.`
