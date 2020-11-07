@@ -40,9 +40,8 @@
 
 **Example:**
 
-**
-var x=1, y=2,
+<pre>var x=1, y=2,
 z=
-x+y;**
+x+y</pre>
 
 `The above code is perfectly fine, though not advisable as it hampers debugging.`
