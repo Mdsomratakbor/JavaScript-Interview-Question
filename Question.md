@@ -23,3 +23,14 @@
 ### 5. Between JavaScript and an ASP script, which is faster?
 
 `JavaScript is faster. JavaScript is a client-side language and thus it does not need the assistance of the web server to execute. On the other hand, ASP is a server-side language and hence is always slower than JavaScript. Javascript now is also a server side language (nodejs).`
+
+### 6. What is negative infinity?
+
+`Negative Infinity is a number in JavaScript which can be derived by dividing negative number by zero.`
+
+### 7. Is it possible to break JavaScript Code into several lines?
+
+`Breaking within a string statement can be done by the use of a backslash, '\', at the end of the first line`
+
+**Example:**
+<pre>document.write("this is \a program")<pre>
