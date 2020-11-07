@@ -34,3 +34,12 @@
 
 **Example:**
 <pre>document.write("this is \a program")<pre>
+
+`And if you change to a new line when not within a string statement, then javaScript ignores break in line.`
+
+**Example:**
+<pre>
+var x=1, y=2,
+z=
+x+y;
+</pre>
