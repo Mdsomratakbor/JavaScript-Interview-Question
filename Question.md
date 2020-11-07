@@ -15,3 +15,7 @@
 - **Boolean**
 - **Object**
 - **Undefined**
+
+### 4. What is the use of isNaN function?
+
+`isNan function returns true if the argument is not a number otherwise it is false.`
