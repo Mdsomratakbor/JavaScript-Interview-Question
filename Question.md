@@ -19,3 +19,7 @@
 ### 4. What is the use of isNaN function?
 
 `isNan function returns true if the argument is not a number otherwise it is false.`
+
+### 5. Between JavaScript and an ASP script, which is faster?
+
+`JavaScript is faster. JavaScript is a client-side language and thus it does not need the assistance of the web server to execute. On the other hand, ASP is a server-side language and hence is always slower than JavaScript. Javascript now is also a server side language (nodejs).`
