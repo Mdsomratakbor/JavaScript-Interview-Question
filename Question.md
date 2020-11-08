@@ -181,3 +181,7 @@ i = "string";
 **In order to convert 4F (of base 16) to integer, the code used will be -**
 
 <pre>parseInt ("4F", 16);</pre>
+
+### 25. Explain the difference between "==" and "==="?
+
+`"==" checks only for equality in value whereas "===" is a stricter equality test and returns false if either the value or the type of the two variables are different.`
