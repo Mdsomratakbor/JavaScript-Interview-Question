@@ -94,3 +94,11 @@ else
  <button id="btnSubmit" type="submit" onclick="Comparision();" class="btn btn-primary">  
          Submit</button>  
 </pre>
+
+<img src="https://www.c-sharpcorner.com/article/difference-between-and-in-javascript2/Images/image002.png"/>
+
+`In the above code snippet, I have compared two variables using === operator. It returns true for 100 === 100 and it returns false for 100 === "100". It means === does a strict check for comparison. It checks datatype also and does a comparison based on it.`
+
+**Consclusion**
+
+`Here, I have tried to explain the concept of comparison of two varibale using == and === operator. The single = is used for assigning the value to variable and == , === are used for comparison purposes. == compares two variables irrespective of data type while === compares two variables in a strict check, which means it checks for data type also then it returns true or false.`
