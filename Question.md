@@ -132,3 +132,17 @@ document.form[0].submit();
 ### 19. Does JavaScript support automatic type conversion?
 
 `Yes JavaScript does support automatic type conversion, it is the common way of type conversion used by JavaScript developers`
+
+### 20. How can the style/class of an element be changed?
+
+**It can be done in the following way:**
+
+<pre>
+document.getElementById("myText").style.fontSize = "20";
+</pre>
+
+**or**
+
+<pre>
+document.getElementById("myText").className = "anyclass";
+<pre>
