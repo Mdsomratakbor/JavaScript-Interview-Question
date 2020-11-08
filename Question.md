@@ -154,3 +154,11 @@ document.getElementById("myText").className = "anyclass";
 
 - `Using JavaScript extensions`
 - `Using a web page and Active X objects`
+
+### 22. What are all the looping structures in JavaScript?
+
+**Following are looping structures in Javascript:**
+
+- `For`
+- `While`
+- `do-while loops`
