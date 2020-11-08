@@ -185,3 +185,7 @@ i = "string";
 ### 25. Explain the difference between "==" and "==="?
 
 `"==" checks only for equality in value whereas "===" is a stricter equality test and returns false if either the value or the type of the two variables are different.`
+
+### 26. What would be the result of 3+2+"7"?
+
+`Since 3 and 2 are integers, they will be added numerically. And since 7 is a string, its concatenation will be done. So the result would be 57.`
