@@ -26,5 +26,6 @@ else
    alert("Both are not equal"); 
 </pre>
 
+**Let's take an example below to understand how == and === do a comparison of two variable values.**
 
 
