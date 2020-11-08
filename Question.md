@@ -145,7 +145,7 @@ document.getElementById("myText").style.fontSize = "20";
 
 <pre>
 document.getElementById("myText").className = "anyclass";
-<pre>
+</pre>
 
 
 ### 21. Explain how to read and write a file using JavaScript?
