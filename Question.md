@@ -117,3 +117,7 @@ Comment
 `'ViewState' is specific to a page in a session.`
 
 `'SessionState' is specific to user specific data that can be accessed across all pages in the web application.`
+
+
+### 17. What is === operator?
+`=== is called as strict equality operator which returns true when the two operands are having the same value without any type conversion.`
