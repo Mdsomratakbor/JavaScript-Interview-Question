@@ -128,3 +128,7 @@ Comment
 <pre>
 document.form[0].submit();
 </pre>
+
+### 19. Does JavaScript support automatic type conversion?
+
+`Yes JavaScript does support automatic type conversion, it is the common way of type conversion used by JavaScript developers`
