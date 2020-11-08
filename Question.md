@@ -162,3 +162,13 @@ document.getElementById("myText").className = "anyclass";
 - `For`
 - `While`
 - `do-while loops`
+
+### 23. What is called Variable typing in Javascript?
+
+**Variable typing is used to assign a number to a variable and the same variable can be assigned to a string.**
+
+Example
+<pre>
+i = 10;
+i = "string";
+</pre>
