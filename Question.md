@@ -121,3 +121,10 @@ Comment
 
 ### 17. What is === operator?
 `=== is called as strict equality operator which returns true when the two operands are having the same value without any type conversion.`
+
+### 18. Explain how can you submit a form using JavaScript?
+
+`To submit a form using JavaScript use document.form[0].submit();`
+<pre>
+document.form[0].submit();
+</pre>
