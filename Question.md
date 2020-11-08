@@ -85,3 +85,7 @@ x+y;</pre>
 ### 12. What is a prompt box?
 
 `A prompt box is a box which allows the user to enter input by providing a text box. Label and box will be provided to enter the text or number.`
+
+### 13. What is 'this' keyword in JavaScript?
+
+`'This' keyword refers to the object from where it was called.`
