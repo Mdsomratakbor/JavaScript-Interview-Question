@@ -56,3 +56,18 @@ x+y;</pre>
 `Undeclared variables are those that do not exist in a program and are not declared. If the program tries to read the value of an undeclared variable, then a runtime error is encountered.`
 
 `Undefined variables are those that are declared in the program but have not been given any value. If the program tries to read the value of an undefined variable, an undefined value is returned.`
+
+### 10. Write the code for adding new elements dynamically?
+<pre>
+<html> 
+<head> 
+<title>t1</title> 
+<script type="text/javascript"> 
+	function addNode() { var newP = document.createElement("p"); 
+	var textNode = document.createTextNode(" This is a new text node"); 
+	newP.appendChild(textNode); document.getElementById("firstP").appendChild(newP); } 
+</script> </head> 
+<body> <p id="firstP">firstP<p> </body> 
+</html>
+</pre>
+
