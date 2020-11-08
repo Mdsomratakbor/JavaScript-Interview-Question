@@ -98,3 +98,15 @@ x+y;</pre>
 `The setTimeout(function, delay) function is used to start a timer that calls a particular function after the mentioned delay. The setInterval(function, delay) function is used to repeatedly execute the given function in the mentioned delay and only halts when cancelled. The clearInterval(id) function instructs the timer to stop.`
 
 `Timers are operated within a single thread, and thus events might queue up, waiting to be executed.`
+
+15. Which symbol is used for comments in Javascript?
+
+<pre>// for Single line comments and
+
+/* Multi
+
+Line
+
+Comment
+
+*/</pre>
