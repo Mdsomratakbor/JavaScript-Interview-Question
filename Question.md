@@ -67,7 +67,7 @@ x+y;</pre>
 	var textNode = document.createTextNode(" This is a new text node"); 
 	newP.appendChild(textNode); document.getElementById("firstP").appendChild(newP); } 
 </script> </head> 
-<body> <p id="firstP">firstP<p> </body> 
+<body></body> 
 </html>
 </pre>
 
