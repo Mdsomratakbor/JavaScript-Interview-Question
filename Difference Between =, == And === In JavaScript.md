@@ -7,16 +7,24 @@
 - === is used for comparision between two variables but this will check strict type, which means it will check datatype and compare two values.
 `Let's take the example of each one by one.`
 
-`Example of =`
+**Example of =**
 <pre>var number = 100;  // Here number variable assigned using =</pre>
 
-`Example of ==`
+**Example of ==**
 <pre>
 if (number == 100)  // Here Comparision between two values using ==. It will compare irrespective of datatype of variable
    alert("Both are equal");    
 else    
    alert("Both are not equal");   
    </pre>
+
+**Example of ===**
+<pre>
+if (number === 100)  // Here Comparision between two values using ===. It will compare strict check means it will check datatype as well.
+   alert("Both are equal");      
+else      
+   alert("Both are not equal"); 
+</pre>
 
 
 
