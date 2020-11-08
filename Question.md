@@ -207,3 +207,11 @@ i = "string";
 <pre>var student= {age:20, batch:"ABC"};
 delete student.age;
 </pre>
+
+### 30. What is an undefined value in JavaScript?
+
+`Undefined value means the`
+
+- **Variable used in the code doesn't exist**
+- **Variable is not assigned to any value**
+- **Property doesn't exist**
