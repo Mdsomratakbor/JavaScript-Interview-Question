@@ -29,3 +29,22 @@ else
 **Let's take an example below to understand how == and === do a comparison of two variable values.**
 
 
+<pre>
+<h2>Difference between =, == and === in Javascript</h2>  
+<script type="text/javascript">  
+    function Comparision() {  
+        var number = 100;  // Here number variable assigned using =  
+        debugger;  
+  
+        if (number == 100)  // Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will                                  do comparision  
+            $("#lblMessage").text("Both are equal");  
+        else  
+            $("#lblMessage").text("Both are not equal");  
+  
+      if(number == "100")  //Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will                              do comparision  
+            $("#lblMessage1").text("Both are equal");  
+        else  
+           $("#lblMessage1").text("Both are not equal");  
+    }  
+</script> 
+</pre>
