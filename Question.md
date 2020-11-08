@@ -110,3 +110,10 @@ Line
 Comment
 
 */</pre>
+
+
+### 16. What is the difference between ViewState and SessionState?
+
+`'ViewState' is specific to a page in a session.`
+
+`'SessionState' is specific to user specific data that can be accessed across all pages in the web application.`
