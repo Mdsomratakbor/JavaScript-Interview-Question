@@ -71,3 +71,13 @@ x+y;</pre>
 </html>
 </pre>
 
+
+### 11. What are global variables? How are these variable declared and what are the problems associated with using them?
+
+`Global variables are those that are available throughout the length of the code, that is, these have no scope. The var keyword is used to declare a local variable or object. If the var keyword is omitted, a global variable is declared.`
+
+**Example:**
+
+`// Declare a global globalVariable = "Test";`
+
+`The problems that are faced by using global variables are the clash of variable names of local and global scope. Also, it is difficult to debug and test the code that relies on global variables.`
