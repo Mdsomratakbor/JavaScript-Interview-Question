@@ -81,3 +81,7 @@ x+y;</pre>
 `// Declare a global globalVariable = "Test";`
 
 `The problems that are faced by using global variables are the clash of variable names of local and global scope. Also, it is difficult to debug and test the code that relies on global variables.`
+
+### 12. What is a prompt box?
+
+`A prompt box is a box which allows the user to enter input by providing a text box. Label and box will be provided to enter the text or number.`
