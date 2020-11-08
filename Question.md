@@ -193,3 +193,7 @@ i = "string";
 ### 27. Explain how to detect the operating system on the client machine?
 
 `In order to detect the operating system on the client machine, the navigator.platform string (property) should be used.`
+
+### 28. What do mean by NULL in Javascript?
+
+`The NULL value is used to represent no value or no object. It implies no object or null string, no valid boolean value, no number and no array object.`
