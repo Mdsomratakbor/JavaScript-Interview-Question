@@ -189,3 +189,7 @@ i = "string";
 ### 26. What would be the result of 3+2+"7"?
 
 `Since 3 and 2 are integers, they will be added numerically. And since 7 is a string, its concatenation will be done. So the result would be 57.`
+
+### 27. Explain how to detect the operating system on the client machine?
+
+`In order to detect the operating system on the client machine, the navigator.platform string (property) should be used.`
