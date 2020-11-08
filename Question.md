@@ -173,3 +173,11 @@ i = 10;
 i = "string";
 </pre>
 **This is called variable typing.**
+
+### 24. How can you convert the string of any base to integer in JavaScript?
+
+`The parseInt() function is used to convert numbers between different bases. parseInt() takes the string to be converted as its first parameter, and the second parameter is the base of the given string.`
+
+**In order to convert 4F (of base 16) to integer, the code used will be -**
+
+<pre>parseInt ("4F", 16);</pre>
