@@ -146,3 +146,11 @@ document.getElementById("myText").style.fontSize = "20";
 <pre>
 document.getElementById("myText").className = "anyclass";
 <pre>
+
+
+### 21. Explain how to read and write a file using JavaScript?
+
+**There are two ways to read and write a file using JavaScript**
+
+- `Using JavaScript extensions`
+- `Using a web page and Active X objects`
