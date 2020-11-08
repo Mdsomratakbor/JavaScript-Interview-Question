@@ -172,3 +172,4 @@ Example
 i = 10;
 i = "string";
 </pre>
+**This is called variable typing.**
