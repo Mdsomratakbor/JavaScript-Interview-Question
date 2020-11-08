@@ -36,15 +36,61 @@ else
         var number = 100;  // Here number variable assigned using =  
         debugger;  
   
-        if (number == 100)  // Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will                                  do comparision  
+        if (number == 100)  // Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will do comparision  
             $("#lblMessage").text("Both are equal");  
         else  
             $("#lblMessage").text("Both are not equal");  
   
-      if(number == "100")  //Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will                              do comparision  
+      if(number == "100")  //Here Comparision between two values using ==. This will not check datatype irrespective of datatype it will do comparision  
             $("#lblMessage1").text("Both are equal");  
         else  
            $("#lblMessage1").text("Both are not equal");  
     }  
 </script> 
+</pre>
+
+<img src="https://www.c-sharpcorner.com/article/difference-between-and-in-javascript2/Images/image001.png"/>
+
+`In the above example, both the comparisons return a true value irrespective of datatype. 100==100 means both are int values and the other condition, 100 == "100" means int comparison with "100" string type of variable still returns true. It means == is not doing a strict type check.`
+
+<pre>
+<h2>Difference between =, == and === in Javascript</h2>  
+<script type="text/javascript">  
+    function Comparision() {  
+        var number = 100;  // Here number variable assigned using =  
+        debugger;  
+  
+        if (number === 100)  // Here Comparision between two values using ==. This will not check datatype irrespective of datatype it 
+                              will do comparision  
+            $("#lblMessage").text("Both are equal");  
+        else  
+            $("#lblMessage").text("Both are not equal");  
+  
+        if (number === "100")  // Here Comparision between two values using ==. This will not check datatype irrespective of datatype it                                  will do comparision  
+            $("#lblMessage1").text("Both are equal");  
+        else  
+           $("#lblMessage1").text("Both are not equal");  
+    }  
+</script>  
+<table>  
+    <tr>  
+        <td>  
+            100 === 100  
+        </td>  
+        <td>  
+           <label id="lblMessage" runat="server" ></label>  
+        </td>  
+    </tr>  
+    <tr>  
+        <td>  
+            100 === "100"  
+        </td>  
+        <td>  
+           <label id="lblMessage1" runat="server" ></label>  
+        </td>  
+    </tr>  
+      
+</table>  
+ <button id="btnSubmit" type="submit" onclick="Comparision();" class="btn btn-primary">  
+         Submit</button>  
 </pre>
