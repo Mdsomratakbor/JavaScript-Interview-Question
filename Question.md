@@ -197,3 +197,13 @@ i = "string";
 ### 28. What do mean by NULL in Javascript?
 
 `The NULL value is used to represent no value or no object. It implies no object or null string, no valid boolean value, no number and no array object.`
+
+### 29. What is the function of delete operator?
+
+`The delete keyword is used to delete the property as well as its value.`
+
+**Example**
+
+<pre>var student= {age:20, batch:"ABC"};
+delete student.age;
+</pre>
