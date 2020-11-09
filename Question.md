@@ -237,3 +237,7 @@ delete student.age;
 
 <!-- location.href="http://newhost/newpath/newfile.html"; //--></script>
 </pre>
+
+### 34. What is the data type of variables of in JavaScript?
+
+`All variables in the JavaScript are object data types.`
