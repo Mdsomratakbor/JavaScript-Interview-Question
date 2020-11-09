@@ -227,3 +227,13 @@ delete student.age;
 `Void(0) is used to prevent the page from refreshing and parameter "zero" is passed while calling.`
 
 `Void(0) is used to call another method without refreshing the page.`
+
+### 33. How can a page be forced to load another page in JavaScript?
+
+**The following code has to be inserted to achieve the desired effect:**
+
+<pre>
+<script language="JavaScript" type="text/javascript" >
+
+<!-- location.href="http://newhost/newpath/newfile.html"; //--></script>
+</pre>
