@@ -221,3 +221,9 @@ delete student.age;
 - `Alert`
 - `Confirm and`
 - `Prompt`
+
+### 32. What is the use of Void(0)?
+
+`Void(0) is used to prevent the page from refreshing and parameter "zero" is passed while calling.`
+
+`Void(0) is used to call another method without refreshing the page.`
