@@ -215,3 +215,9 @@ delete student.age;
 - **Variable used in the code doesn't exist**
 - **Variable is not assigned to any value**
 - **Property doesn't exist**
+
+### 31. What are all the types of Pop up boxes available in JavaScript?
+
+- `Alert`
+- `Confirm and`
+- `Prompt`
