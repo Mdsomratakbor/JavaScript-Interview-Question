@@ -306,3 +306,18 @@ console.log(students);
 var value = 'bangladesh';
 console.log(value);
 </pre>
+
+### 45. Which keywords are used to handle exceptions?
+
+`Try… Catch---finally is used to handle exceptions in the JavaScript`
+<pre>
+Try{
+	Code
+}
+Catch(exp){
+	Code to throw an exception
+}
+Finally{
+	Code runs either it finishes successfully or after catch
+}
+</pre>
