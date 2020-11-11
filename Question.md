@@ -274,3 +274,21 @@ console.log(students);
 students.pop();
 console.log(students); 
 </pre>
+
+### 39. Whether JavaScript has concept level scope?
+
+`No. JavaScript does not have concept level scope. The variable declared inside the function has scope inside the function.`
+
+### 40. What is break and continue statements?
+
+`Break statement exits from the current loop.`
+
+`Continue statement continues with next statement of the loop.`
+
+### 41. What are the two basic groups of dataypes in JavaScript?
+
+**They are as –**
+
+- **Primitive**
+- **Reference types.**
+- **Primitive types are number and Boolean data types. Reference types are more complex types like strings and dates.**
