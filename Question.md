@@ -349,3 +349,15 @@ i="john";
 - **Load time errors:** `Errors which come up when loading a web page like improper syntax errors are known as Load time errors and it generates the errors dynamically.`
 - **Run time errors:** `Errors that come due to misuse of the command inside the HTML language.`
 - **Logical Errors:** `These are the errors that occur due to the bad logic performed on a function which is having different operation.`
+
+### 51. What is the use of Push method in JavaScript?
+
+`The push method is used to add or append one or more elements to the end of an Array. Using this method, we can append multiple elements by passing multiple arguments`
+
+### 52. What is unshift method in JavaScript?
+
+`Unshift method is like push method which works at the beginning of the array. This method is used to prepend one or more elements to the beginning of the array.`
+
+### 53. What is the difference between JavaScript and Jscript?
+
+`Both are almost similar. JavaScript is developed by Netscape and Jscript was developed by Microsoft .`
