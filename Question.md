@@ -321,3 +321,7 @@ Finally{
 	Code runs either it finishes successfully or after catch
 }
 </pre>
+
+### 46. Which keyword is used to print the text in the screen?
+
+`document.write("Welcome") is used to print the text – Welcome in the screen.`
