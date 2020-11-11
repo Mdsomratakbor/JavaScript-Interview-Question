@@ -292,3 +292,17 @@ console.log(students);
 - **Primitive**
 - **Reference types.**
 - **Primitive types are number and Boolean data types. Reference types are more complex types like strings and dates.**
+
+### 42. How generic objects can be created?
+
+`Generic objects can be created as:`
+
+<pre>var I = new object();</pre>
+
+### 43. What is the use of type of operator?
+
+'Typeof' is an operator which is used to return a string description of the type of a variable.
+<pre>
+var value = 'bangladesh';
+console.log(value);
+</pre>
