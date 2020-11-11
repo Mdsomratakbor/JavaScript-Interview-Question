@@ -248,3 +248,13 @@ delete student.age;
 `An alert box displays only one button which is the OK button.`
 
 `But a Confirmation box displays two buttons namely OK and cancel.`
+
+### 36. What are escape characters?
+
+`Escape characters (Backslash) is used when working with special characters like single quotes, double quotes, apostrophes and ampersands. Place backslash before the characters to make it display.`
+
+**Example:**
+<pre>
+document.write "I m a "good" boy"
+document.write "I m a \"good\" boy"
+</pre>
