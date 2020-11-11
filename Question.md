@@ -241,3 +241,10 @@ delete student.age;
 ### 34. What is the data type of variables of in JavaScript?
 
 `All variables in the JavaScript are object data types.`
+
+
+### 35. What is the difference between an alert box and a confirmation box?
+
+`An alert box displays only one button which is the OK button.`
+
+`But a Confirmation box displays two buttons namely OK and cancel.`
