@@ -307,7 +307,7 @@ var value = 'bangladesh';
 console.log(value);
 </pre>
 
-### 45. Which keywords are used to handle exceptions?
+### 44. Which keywords are used to handle exceptions?
 
 `Try… Catch---finally is used to handle exceptions in the JavaScript`
 <pre>
@@ -322,6 +322,18 @@ Finally{
 }
 </pre>
 
-### 46. Which keyword is used to print the text in the screen?
+### 45. Which keyword is used to print the text in the screen?
 
 `document.write("Welcome") is used to print the text – Welcome in the screen.`
+
+### 47. What is the use of blur function?
+
+`Blur function is used to remove the focus from the specified object.`
+
+### 48. What is variable typing?
+
+`Variable typing is used to assign a number to a variable and then assign string to the same variable. Example is as follows:`
+<pre>
+i= 8;
+i="john";
+</pre>
