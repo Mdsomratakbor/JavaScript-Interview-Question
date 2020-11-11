@@ -337,3 +337,15 @@ Finally{
 i= 8;
 i="john";
 </pre>
+
+### 49. How to find operating system in the client machine using JavaScript?
+
+`The 'Navigator.appversion' is used to find the name of the operating system in the client machine.`
+
+### 50. What are the different types of errors in JavaScript?
+
+`There are three types of errors:`
+
+- **Load time errors:** `Errors which come up when loading a web page like improper syntax errors are known as Load time errors and it generates the errors dynamically.`
+- **Run time errors:** `Errors that come due to misuse of the command inside the HTML language.`
+- **Logical Errors:** `These are the errors that occur due to the bad logic performed on a function which is having different operation.`
