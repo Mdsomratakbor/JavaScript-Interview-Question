@@ -258,3 +258,19 @@ delete student.age;
 document.write "I m a "good" boy"
 document.write "I m a \"good\" boy"
 </pre>
+
+### 37. What are JavaScript Cookies?
+
+`Cookies are the small test files stored in a computer and it gets created when the user visits the websites to store information that they need. Example could be User Name details and shopping cart information from the previous visits.`
+
+### 38. Explain what is pop()method in JavaScript?
+
+The pop() method is similar as the shift() method but the difference is that the Shift method works at the start of the array. Also the pop() method take the last element off of the given array and returns it. The array on which is called is then altered.
+
+**Example:**
+<pre>
+let students = ["somrat","akbor","moazzam","hossain"]; 
+console.log(students); 
+students.pop();
+console.log(students); 
+</pre>
