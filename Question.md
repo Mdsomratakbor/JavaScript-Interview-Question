@@ -361,3 +361,15 @@ i="john";
 ### 53. What is the difference between JavaScript and Jscript?
 
 `Both are almost similar. JavaScript is developed by Netscape and Jscript was developed by Microsoft .`
+
+
+### 54. How are object properties assigned?
+
+`Properties are assigned to objects in the following way -`
+<pre>
+obj["name"] = "somrat"
+</pre>
+**or**
+<pre>
+obj.name= "somrat"
+</pre>
