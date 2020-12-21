@@ -380,3 +380,10 @@ obj.name= "somrat"
 
 **Method 1: By using Array.prototype.slice.call() method.**
 
+**const array = Array.prototype.slice.call(nodeList);**
+
+**Example :**
+<pre>
+const buttons = Array.prototype.slice.call(document.querySelectorAll(".bag-btn"));
+console.log(buttons)
+</pre>
