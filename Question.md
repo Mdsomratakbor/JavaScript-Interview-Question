@@ -397,3 +397,11 @@ console.log(buttons)
 <pre>
 const buttons = Array.from(document.querySelectorAll(".bag-btn"));
 </pre>
+
+**Method 3: Using ES6 spread syntax, it allows an iterable such as an array expression or string to be expanded in places where zero or more arguments or elements are expected.**
+
+**Syntax: const array = [ ...nodeList ]**
+
+<pre>
+ const buttons = [...document.querySelectorAll('.bag-btn')];
+</pre>
