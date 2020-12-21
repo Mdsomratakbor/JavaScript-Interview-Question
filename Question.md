@@ -373,3 +373,10 @@ obj["name"] = "somrat"
 <pre>
 obj.name= "somrat"
 </pre>
+
+### 55. How to convert a DOM nodelist to an array using JavaScript?
+
+`NodeList objects are the collection of nodes, usually returned by properties such as Node.childNodes and methods such as document.querySelectorAll(). Although NodeList is not an actual Array but it is possible to iterate over it with the help of forEach() method. NodeList can also be converted into actual array by following methods.`
+
+**Method 1: By using Array.prototype.slice.call() method.**
+
