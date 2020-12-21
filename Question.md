@@ -391,3 +391,9 @@ console.log(buttons)
 **Method 2: With the help of Array.from() method.**
 
 **Syntax: const array = Array.from(nodeList);**
+
+**Example :**
+
+<pre>
+const buttons = Array.from(document.querySelectorAll(".bag-btn"));
+</pre>
